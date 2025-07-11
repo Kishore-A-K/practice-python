@@ -1,0 +1,3 @@
+ruppe = float(input("enter\n"))
+print("Amount:${:.2f}\n".format(ruppe))
+print(ruppe)
